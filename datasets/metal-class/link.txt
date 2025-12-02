@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/edumisvieramartin/metals-classification-100-accuracy
+https://www.kaggle.com/code/edumisvieramartin/metals-classification-100-accuracy/notebook
